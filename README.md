@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍🎓 Descripción
-Soy estudiante de Ingeniería de Sistemas de la Universidad Nacional de Colombia. Interesado en profundizar en Data Science y Machine Learning.
+Mi nombre es Juan Jerónimo Gómez Rubiano. Soy estudiante de Ingeniería de Sistemas de la Universidad Nacional de Colombia. Interesado en profundizar en Data Science y Machine Learning.
 
 ---
 
